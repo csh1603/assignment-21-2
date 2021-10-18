@@ -1,3 +1,5 @@
+// ë¬¸ìì—´ ë’¤ì§‘ëŠ” í”„ë¡œê·¸ë¨
+
 #include <stdio.h>
 #include <string.h>
 
@@ -15,7 +17,7 @@ void reversestr(char* orig) {
 int main(void) {
 	char* rev = &str[0];
 
-	printf("¹®ÀÚ¿­À» ÀÔ·ÂÇÏ¼¼¿ä : ");
+	printf("ë¬¸ìì—´ì„ ì…ë ¥í•˜ì„¸ìš” : ");
 	scanf("%s", str);
 
 	reversestr(rev);
